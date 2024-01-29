@@ -4,7 +4,7 @@
 
 <html>
 <body>
-  <a href="about.html">1. Производственное помещение</a>
+  <a href="about.md">1. Производственное помещение</a>
 </body>
 </html>  <br>
 <html>
