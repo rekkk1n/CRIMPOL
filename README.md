@@ -8,24 +8,18 @@ html
   <a href="about.html">1. Производственное помещение</a>
 </body>
 </html>  
-2. **Место проведения пожароопасных работ**
-html
 <!DOCTYPE html>
 <html>
 <body>
   <a href="about2.html">2. Место проведения пожароопасных работ</a>
 </body>
 </html>  
-3. **Баня**
-html
 <!DOCTYPE html>
 <html>
 <body>
   <a href="about3.html">3. Баня</a>
 </body>
 </html>  
-4. **Жилое помещение**
-html
 <!DOCTYPE html>
 <html>
 <body>
