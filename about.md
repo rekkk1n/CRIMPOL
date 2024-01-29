@@ -1,2 +1,3 @@
 yaml
-
+layout: default
+title: Название вашей страницы
