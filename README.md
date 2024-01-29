@@ -6,20 +6,17 @@
 <body>
   <a href="about.html">1. Производственное помещение</a>
 </body>
-</html>  
-<br>
+</html>  <br>
 <html>
 <body>
   <a href="about2.html">2. Место проведения пожароопасных работ</a>
 </body>
-</html>  
-<br>
+</html>  <br>
 <html>
 <body>
   <a href="about3.html">3. Баня</a>
 </body>
-</html>  
-<br>
+</html>  <br>
 <html>
 <body>
   <a href="about4.html">4. Жилое помещение</a>
