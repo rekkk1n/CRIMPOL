@@ -1,1 +1,7 @@
-theme: pages-themes/cayman@v0.2.0
+yaml
+# _config.yml
+
+title: Криминалистический полигон 
+author: rekkk1n
+description: Сайт для института
+remote_theme: pages-themes/cayman@v0.2.0
