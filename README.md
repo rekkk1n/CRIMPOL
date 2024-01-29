@@ -11,7 +11,7 @@
 <body>
   <a href="about2.html">2. Место проведения пожароопасных работ</a>
 </body>
-</html>\
+</html> <br>
 <html>
 <body>
   <a href="about3.html">3. Баня</a>
