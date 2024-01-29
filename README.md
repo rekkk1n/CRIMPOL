@@ -4,22 +4,22 @@
 
 <html>
 <body>
-  <a href="about.html">1. Производственное помещение</a>
+  <a href="about.md">1. Производственное помещение</a>
 </body>
 </html>  <br>
 <html>
 <body>
-  <a href="about2.html">2. Место проведения пожароопасных работ</a>
+  <a href="about2.md">2. Место проведения пожароопасных работ</a>
 </body>
 </html> <br>
 <html>
 <body>
-  <a href="about3.html">3. Баня</a>
+  <a href="about3.md">3. Баня</a>
 </body>
 </html> <br> 
 <html>
 <body>
-  <a href="about4.html">4. Жилое помещение</a>
+  <a href="about4.md">4. Жилое помещение</a>
 </body>
 </html>  
 
