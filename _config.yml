@@ -1,1 +1,7 @@
+yaml
+---
+layout: default
+title: Название вашей страницы
+---
+
 remote_theme: pages-themes/cayman@v0.2.0
