@@ -16,7 +16,7 @@
 <body>
   <a href="about3.html">3. Баня</a>
 </body>
-</html>\  
+</html>  
 <html>
 <body>
   <a href="about4.html">4. Жилое помещение</a>
