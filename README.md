@@ -5,9 +5,7 @@ html
 <!DOCTYPE html>
 <html>
 <body>
-
-  <a href="about.html">1.Производственное помещение</a>
-
+  <a href="about.html">1. Производственное помещение</a>
 </body>
 </html>
 2. **Место проведения пожароопасных работ**
