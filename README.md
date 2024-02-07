@@ -7,7 +7,7 @@
   
 Полигон содержит **учебные места**:
 1. «[Производственное помещение](https://rekkk1n.github.io/Production/)»
-2. «[Место проведения пожароопасных работ](https://rekkk1n.github.io/firehazardous/)»
+2. «[Место проведения пожароопасных работ](https://rekkk1n.github.io/Firehazardous/)»
 3. «[Помещение бани](https://rekkk1n.github.io/Bathhouse/)»
 4. «[Жилое помещение](https://rekkk1n.github.io/Apartment/)»
 5. «[Автотехническое что-то там](https://rekkk1n.github.io/AUTO/)»
